@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sharing thoughts on software craftsmanship
+title: Francisco Castanho
+subtitle: Sharing thoughts on software craftsmanship
 email: castanho.jfc@gmail.com
 description: >-
   Francisco's articles on software craftsmanship
