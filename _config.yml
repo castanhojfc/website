@@ -28,7 +28,7 @@ repository: "castanhojfc/website"
 logo: /assets/images/logo.png
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "dark"
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
@@ -94,7 +94,7 @@ comments:
     category_id: "DIC_kwDOHHvGt84COduU"
     discussion_term: "pathname"
     reactions_enabled: 1
-    theme: "white"
+    theme: "dark"
 
 defaults:
   # _posts
